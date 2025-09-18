@@ -1,0 +1,17 @@
+[
+    {
+        "titolo": "Viaggio in Giappone",
+        "descrizione": "Un'esperienza indimenticabile tra templi antichi e città futuriste. Leggi il racconto del nostro viaggio...",
+        "data": "10 Agosto 2025"
+    },
+    {
+        "titolo": "Le migliori ricette per l'estate",
+        "descrizione": "Abbiamo raccolto le nostre ricette preferite, facili e veloci, perfette per le serate estive...",
+        "data": "15 Luglio 2025"
+    },
+    {
+        "titolo": "Tecnologia: i gadget del 2024",
+        "descrizione": "Una recensione onesta dei gadget più interessanti usciti quest'anno. Quali valgono la pena?",
+        "data": "5 Giugno 2025"
+    }
+]
